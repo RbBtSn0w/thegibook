@@ -43,4 +43,11 @@
 *.gz
 *.synctex.gz
 *.toc
-*.DS_Store
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+
+
+*.DS_Store*
