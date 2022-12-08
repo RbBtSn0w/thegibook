@@ -20,4 +20,4 @@ fi
 
 #---------------pandoc config------------------#
 
-pandoc  theGIbook.tex --from latex -o theGIbook.epub3 --to epub3
+pandoc  theGIbook.tex --from latex -o theGIbook.epub --to epub3
